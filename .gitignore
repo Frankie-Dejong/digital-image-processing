@@ -1,0 +1,9 @@
+Lab1/build/*
+Lab1/bin/*
+.vscode
+.zed
+.DS_Store
+.idea
+*.ppm
+images
+scripts
