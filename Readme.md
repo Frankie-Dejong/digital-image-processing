@@ -20,7 +20,8 @@ Make sure you have the following dependencies installed:
 To run the code of each Lab, simply clone the repository and run the following command in the terminal:
 
 ```
-cd Lab{x}/build
+cd Lab{x} && mkdir build
+cd build
 cmake ..
 make
 cd ../bin
