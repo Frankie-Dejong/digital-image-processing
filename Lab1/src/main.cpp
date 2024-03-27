@@ -23,7 +23,8 @@ int main(int argc, char** argv) {
     } else {
         img.process(argParser.getGamma());
     }
-
+    // img.process();
+    // img.outputRGBToPPM(argParser.getOutputFilePath());
     img.outputGrayToPPM(argParser.getOutputFilePath());
     return 0;
 }
