@@ -249,6 +249,9 @@ void Image::fftTransform() {
         }
     }
 
+    std::complex<double> pix_A[height][width];
+    std::complex<double> pix_B[height][width];
+
 
     double max = 0;
     for (int i = 0;i < height; ++i) 
