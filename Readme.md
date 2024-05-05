@@ -8,6 +8,8 @@ Here is the code for the course "Digital Image Processing", which contains the c
     * Logarithmic transformation
     * Multi-linear transformation
     * Gamma correction
+* Lab2
+  * Fourier Transform
 
 # Usage
 

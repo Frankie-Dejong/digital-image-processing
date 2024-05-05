@@ -1,5 +1,5 @@
-Lab1/build/*
-Lab1/bin/*
+build/*
+bin/*
 .vscode
 .zed
 .DS_Store
@@ -8,3 +8,4 @@ Lab1/bin/*
 images
 scripts
 *.txt
+build
